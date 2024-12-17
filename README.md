@@ -4,7 +4,7 @@ This is a **simple and fun project** I created in my free time to detect rooms i
 
 
 
-![sample](./sample/sample.png)
+![sample](/sample/sample_image.png)
 
 
 ---
