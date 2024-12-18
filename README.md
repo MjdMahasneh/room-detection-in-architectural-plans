@@ -1,4 +1,4 @@
-# Room Detection in Architectural Plans 🏠
+# Room Detection in Architectural Plans using OpenCV 🏠
 
 This is a **simple and fun project** I created in my free time to detect rooms in architectural plan drawings using pure **OpenCV**. I thought it might be useful to share it in case others find it interesting or helpful.
 
